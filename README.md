@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi! 👋
 
 I'm Marcin, a 23 years old junior web developer from Poland. I am currently looking for a job where I could improve myself and use my current skills.
@@ -22,3 +20,6 @@ I'm Marcin, a 23 years old junior web developer from Poland. I am currently look
 ![nextjs](https://github.com/marcinn1337/marcinn1337/assets/97905252/df1a93ea-fb95-451e-adf8-fa54c37d3c76)
 ![typescript](https://github.com/marcinn1337/marcinn1337/assets/97905252/56e43494-3c1e-4894-98cc-cae4309ffb21)
 ![php](https://github.com/marcinn1337/marcinn1337/assets/97905252/3e78afd1-998c-427a-b301-cda3242ea7a4)
+
+
+## 💻 My Projects
