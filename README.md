@@ -23,3 +23,8 @@ I'm Marcin, a 23 years old junior web developer from Poland. I am currently look
 
 
 ## 💻 My Projects
+[Respolsible Build](https://respolsiblebuild.co.uk/ "Respolsible Build") - Page for british company that specialize in building campers and summer houses.                            
+[Respolsible Move](https://respolsiblemove.co.uk/ "Respolsible Move") - A website for the same company but for a department dealing with removals and transport.
+
+[Pomodoro & To Do](https://github.com/marcinn1337/pomodoro "Pomodoro App") - Customizable productivity app made in react. User can setup audio effects, timer and color theme for every session.
+[Currency Converter](https://github.com/marcinn1337/currencyconverter "Currency Converter") - Simple JS app which allows user to calculate the exchange rate of currencies and cryptocurrencies.
