@@ -12,6 +12,7 @@ I'm Marcin, a 23 years old junior web developer from Poland. I am currently look
 ![bootstrap](https://github.com/marcinn1337/marcinn1337/assets/97905252/43498089-a73f-422c-8c28-1f7059806eca)
 ![gulp](https://github.com/marcinn1337/marcinn1337/assets/97905252/07652854-f9f9-41f9-8729-56335fa1c54a)
 ![react](https://github.com/marcinn1337/marcinn1337/assets/97905252/b5f9651c-fa73-451c-aed5-867407424a95)
+![vite](https://github.com/marcinn1337/marcinn1337/assets/97905252/584d0a9d-ceee-4a7a-ba5a-3368f9854ce6)
 
 
 
@@ -23,8 +24,8 @@ I'm Marcin, a 23 years old junior web developer from Poland. I am currently look
 
 
 ## 💻 My Projects
-[Respolsible Build](https://respolsiblebuild.co.uk/ "Respolsible Build") - Page for british company that specialize in building campers and summer houses.                            
-[Respolsible Move](https://respolsiblemove.co.uk/ "Respolsible Move") - A website for the same company but for a department dealing with removals and transport.
-
-[Pomodoro & To Do](https://github.com/marcinn1337/pomodoro "Pomodoro App") - Customizable productivity app made in react. User can setup audio effects, timer and color theme for every session.
-[Currency Converter](https://github.com/marcinn1337/currencyconverter "Currency Converter") - Simple JS app which allows user to calculate the exchange rate of currencies and cryptocurrencies.
+[Respolsible Build](https://respolsiblebuild.co.uk/ "Respolsible Build") - Page for british company that specialize in building campers and summer houses.<br>
+[Respolsible Move](https://respolsiblemove.co.uk/ "Respolsible Move") - A website for the same company but for a department dealing with removals and transport.<br><br>
+[Budget Management App](https://github.com/marcinn1337/budget-management "Budget Management App") - React app where user can track home budget, and manage financial goals.<br>
+[Pomodoro & To Do](https://github.com/marcinn1337/pomodoro "Pomodoro App") - Customizable productivity app made in react. User can customize audio effects, timer and color theme for every session.<br>
+[Currency Converter](https://github.com/marcinn1337/currencyconverter "Currency Converter") - Simple JS app which allows user to calculate the exchange rate of currencies and cryptocurrencies.<br>
